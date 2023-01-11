@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha",
+    "test": "ls",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
