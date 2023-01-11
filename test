@@ -1,1 +1,1 @@
-npm install yarnpkg npx --save-dev
+mocha
