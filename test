@@ -1,1 +1,1 @@
-echo
+npm install yarnpkg npx --save-dev
